@@ -3,7 +3,7 @@ title: Doing research at 18F
 navtitle: Research guidelines
 ---
 
-Research isn’t only usability testing. Testing our assumptions by actively engaging with the world around us is at the heart of how 18F works. We do research when we meet with stakeholders to learn about a project, when we investigate and compare tools and systems, and when we find members of the public to tell us about their experiences with the federal government. Research includes questionnaires and surveys, as well as analytics.
+Research isn’t only usability testing. Testing our assumptions by actively engaging with the world around us is at the heart of how CivicActions works. We do research when we meet with stakeholders to learn about a project, when we investigate and compare tools and systems, and when we find members of the public to tell us about their experiences with the federal government. Research includes questionnaires and surveys, as well as analytics.
 
 These guidelines should be familiar to anyone who's done research in the private sector or in academia. However, as public servants, we need to make sure that we're following a few basic principles. 
 
